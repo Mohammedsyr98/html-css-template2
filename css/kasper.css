@@ -620,7 +620,7 @@ header nav .form i {
 
 /* Start Stats*/
 .stats {
-    background-image: url(/images/technology.jpg);
+    background-image: url(../images/technology.jpg);
     background-size: cover;
     padding-top: var(--section-padding);
     padding-bottom: var(--section-padding);
@@ -807,7 +807,7 @@ header nav .form i {
 /* Start Quote */
 .quote {
     width: 100%;
-    background-image: url(/images/bck.jpeg);
+    background-image: url(../images/bck.jpeg);
     background-size: cover;
     background-position: center;
     padding-top: var(--section-padding);
@@ -1103,7 +1103,7 @@ header nav .form i {
 /* End Contact */
 /* Start Footer */
 footer {
-    background-image: url(/images/footer.jpg);
+    background-image: url(../images/footer.jpg);
     background-size: cover;
     background-position: center;
     padding-top: 70px;
